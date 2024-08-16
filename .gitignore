@@ -1,3 +1,18 @@
+# Excel sheets
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.xlt
+*.csv
+*.xlsb
+*.xml
+
+# Anything in the `outputs` folder, which may be proprietary
+/outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
